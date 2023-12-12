@@ -27,7 +27,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### 🛠️ Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="40" height="40"/>&nbsp;
@@ -42,12 +42,12 @@
 
 ---
 
-### :fire: My Stats : 
+### 🔥 My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stormer-1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormer-1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: Blog Posts : <!-- BLOG-POST-LIST:START -->
+### ✍️ Blog Posts : <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
